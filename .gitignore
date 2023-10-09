@@ -1,0 +1,15 @@
+# Local Environment Configuration File
+.env
+
+# Execution results
+.xml
+.html
+
+# PyCharm
+.idea/
+__pycache__/
+
+# Python
+*.pyc
+dist/
+build/
